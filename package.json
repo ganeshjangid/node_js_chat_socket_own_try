@@ -1,0 +1,28 @@
+{
+  "name": "chat_socket_own_try",
+  "version": "1.0.0",
+  "description": "This is web socket for make another socket with own try",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/node_js_chat_socket_own_try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/node_js_chat_socket_own_try/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/node_js_chat_socket_own_try#readme",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "ejs": "3.0.1",
+    "express": "4.17.1",
+    "socket.io": "2.3.0",
+    "socket.io-client": "2.3.0"
+  }
+}
